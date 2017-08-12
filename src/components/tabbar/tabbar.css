@@ -1,0 +1,4 @@
+html,body,div,p,a{padding:0;margin:0;}
+.tabbar{width:100%;background:#f7f7fa;position:fixed;bottom:0;left:0;padding:10px 0;}
+.tabbar a{width:24%;text-align:center;display:inline-block;text-decoration:none;}
+.tabbar i,.tabbar a{color:#888;}
